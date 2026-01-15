@@ -55,7 +55,8 @@ The Pizza Sales Analysis Dashboard is a fully interactive analytical dashboard d
 
 The dashboard has been developed using MS Excel and Power BI, with dynamic filters and navigation features that allow users to explore data across multiple dimensions.
 * MS EXCEL DASHBOARD
-  <img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/02024e07-23c9-4bd2-9fad-622cfa55a4e1" />
+ <img width="1624" height="850" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/11dc6172-c3ea-47bb-8a89-b9ab0a21ea37" />
+
 
 🔹 MS Excel Dashboard Interactivity
 
@@ -72,9 +73,9 @@ The dashboard has been developed using MS Excel and Power BI, with dynamic filte
 
 📌 This allows business users to perform real-time what-if analysis without writing queries.
 * POWERBI DASHBOARD
-  <img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/81983bd9-5f04-42c0-b9e8-21a73d34ab1b" />
+<img width="1351" height="738" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/82e32b27-e174-41cc-847a-92c0f136e709" />
 
-<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/942d7e5d-5cc3-41c6-9c2d-f377a8d2d71c" />
+<img width="1344" height="740" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/f6c6f236-4b3a-434e-99c1-7401811ad2ef" />
 
 🔹 Power BI Dashboard Interactivity
 
