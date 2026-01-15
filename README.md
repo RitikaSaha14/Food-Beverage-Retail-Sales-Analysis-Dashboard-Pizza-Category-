@@ -19,6 +19,7 @@ The dataset contains transactional pizza sales data with details such as:
 *Pizza Size
 *Quantity Sold
 *Total Price
+
 🎯 Key KPIs
 
 *Total Revenue
@@ -26,6 +27,7 @@ The dataset contains transactional pizza sales data with details such as:
 *Total Pizzas Sold
 *Average Order Value (AOV)
 *Average Pizzas per Order
+
 📊 Dashboard Insights
 
 *Daily and monthly order trends
@@ -43,6 +45,7 @@ The dataset contains transactional pizza sales data with details such as:
 *Product-level performance analysis
 
 > All SQL queries used in this project are available in the repository.
+
 
 📊 Dashboard Overview
 
