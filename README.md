@@ -6,45 +6,45 @@ This project analyzes pizza sales data to uncover key business insights related 
 
 🛠 Tools & Technologies
 
-*SQL (MS SQL Server) – Data querying & analysis
-*Excel – Data cleaning & preprocessing
-*Power BI – Interactive dashboards & visualization
+* SQL (MS SQL Server) – Data querying & analysis
+* Excel – Data cleaning & preprocessing
+* Power BI – Interactive dashboards & visualization
 
 📂 Dataset Description
 
 The dataset contains transactional pizza sales data with details such as:
 
-*Order ID
-*Order Date & Time
-*Pizza Name
-*Pizza Category
-*Pizza Size
-*Quantity Sold
-*Total Price
+* Order ID
+* Order Date & Time
+* Pizza Name
+* Pizza Category
+* Pizza Size
+* Quantity Sold
+* Total Price
 
 🎯 Key KPIs
 
-*Total Revenue
-*Total Orders
-*Total Pizzas Sold
-*Average Order Value (AOV)
-*Average Pizzas per Order
+* Total Revenue
+* Total Orders
+* Total Pizzas Sold
+* Average Order Value (AOV)
+* Average Pizzas per Order
 
 📊 Dashboard Insights
 
-*Daily and monthly order trends
-*Revenue contribution by pizza category and size
-*Top & bottom 5 pizzas by:
-*Revenue
-*Quantity sold
-*Total orders
+* Daily and monthly order trends
+* Revenue contribution by pizza category and size
+* Top & bottom 5 pizzas by:
+* Revenue
+* Quantity sold
+* Total orders
 
 📈 SQL Analysis Performed
 
-*KPI calculations
-*Trend analysis (daily & monthly)
-*Category-wise and size-wise sales contribution
-*Product-level performance analysis
+* KPI calculations
+* Trend analysis (daily & monthly)
+* Category-wise and size-wise sales contribution
+* Product-level performance analysis
 
 > All SQL queries used in this project are available in the repository.
 
@@ -59,18 +59,16 @@ The dashboard has been developed using MS Excel and Power BI, with dynamic filte
 
 🔹 MS Excel Dashboard Interactivity
 
-*Built using Pivot Tables and Pivot Charts
-*Slicers are implemented for:
-*Pizza Category
-*Pizza Size
-*Date (Order Date)
-*Selecting any slicer value dynamically updates:
+* Built using Pivot Tables and Pivot Charts
+* Slicers are implemented for:
+* Pizza Category
+* Date (Order Date)
+* Selecting any slicer value dynamically updates:
 
-KPIs
-
-*Charts
-*Trend analysis
-*Date slicers enable users to analyze sales performance over custom time periods
+* KPIs
+* Charts
+* Trend analysis
+* Date slicers enable users to analyze sales performance over custom time periods
 
 📌 This allows business users to perform real-time what-if analysis without writing queries.
 * POWERBI DASHBOARD
@@ -82,27 +80,27 @@ KPIs
 
 The Power BI dashboard is fully interactive and designed for story-driven analysis
 
-*Slicers used for:
-*Pizza Category
-*Pizza Size
-*Order Date
-*All visuals respond instantly to slicer selections, enabling cross-filtering across KPIs and charts
+* Slicers used for:
+* Pizza Category
+* Pizza Size
+* Order Date
+* All visuals respond instantly to slicer selections, enabling cross-filtering across KPIs and charts
 🧭 Page Navigation (Power BI)
 
 The Power BI report contains multiple pages with navigator buttons for seamless user experience:
 
 📍 Pages Included
 
-*Home Dashboard – Overall sales performance and KPIs
-*Best & Worst Sellers Dashboard – Product-level performance analysis
+* Home Dashboard – Overall sales performance and KPIs
+* Best & Worst Sellers Dashboard – Product-level performance analysis
 
 🔘 Navigation Logic
 
-*Navigator buttons are configured using Power BI bookmarks
-*On the Home Dashboard:
-  *Press Ctrl + Click on Best/Worst Seller → navigates to the Best & Worst Seller Dashboard
-*On the Best & Worst Seller Dashboard:
-  *Press Ctrl + Click on Home → navigates back to the Home Dashboard
+* Navigator buttons are configured using Power BI bookmarks
+* On the Home Dashboard:
+  * Press Ctrl + Click on Best/Worst Seller → navigates to the Best & Worst Seller Dashboard
+* On the Best & Worst Seller Dashboard:
+  * Press Ctrl + Click on Home → navigates back to the Home Dashboard
 
 📌 This creates a multi-page report flow similar to enterprise BI applications.
 
