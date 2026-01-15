@@ -3,6 +3,7 @@
 📌 Project Overview
 
 This project analyzes pizza sales data to uncover key business insights related to revenue, customer ordering patterns, and product performance. The analysis helps stakeholders understand sales trends and optimize inventory, pricing, and marketing strategies.
+
 🛠 Tools & Technologies
 *SQL (MS SQL Server) – Data querying & analysis
 *Excel – Data cleaning & preprocessing
